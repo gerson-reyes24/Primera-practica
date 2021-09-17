@@ -1,0 +1,31 @@
+#Programa que lee un numero, si es par hace su tabla de multiplicar si no, solo dice que es impar
+
+function GetNumber([int]$numero){	
+	if($numero % 2 -eq 0)
+	{
+		$a =0
+	}
+	else
+	{
+		$a=1
+	}
+	return $a
+}
+
+$multiplicar=0
+
+$numero=Read-Host ("Introduzca un número")
+$resltado = GetNumber $numero
+
+if($a ==0)
+{
+	Write-Host "El número $numero es par y su tabla de multiplicar es:"
+	do
+	{
+		Write-Host $numero "x" $multiplicar "=" $numero*$multiplicar
+		$multiplicar=$multiplicar+1
+	}while($multiplicar -le 10)
+}
+else
+{
+	Write-Host "El número $numero es impar"
