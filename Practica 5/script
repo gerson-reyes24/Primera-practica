@@ -1,0 +1,48 @@
+from bs4 import BeautifulSoup as soup  
+from urllib.request import urlopen as uReq 
+
+# URl que se va enviar al bloc de notas
+
+page_url = "http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&N=-1&IsNodeId=1&Description=GTX&bop=And&Page=1&PageSize=36&order=BESTMATCH"
+
+uClient = uReq(page_url)
+
+# analiza el html 
+page_soup = soup(uClient.read(), "html.parser")
+uClient.close()
+
+# busca cada producto de los contenedores de la página de la tienda
+containers = page_soup.findAll("div", {"class": "item-container"})
+
+out_filename = "graphics_cards.csv"
+
+headers = "marca, nombre_producto, envío\n"
+
+# abre archivo y escribe los encabezados
+f = open(out_filename, "w")
+f.write(headers)
+
+# recorre cada producto y captura los atributos
+for container in containers:
+    
+    make_rating_sp = container.div.select("a")
+
+    
+    brand = make_rating_sp[0].img["title"].title()
+
+    
+    product_name = container.div.select("a")[2].text
+
+    
+    shipping = container.findAll("li", {"class": "price-ship"})[0].text.strip().replace("$", "").replace(" Shipping", "")
+
+    # imprime el conjunto de datos en la consola
+    print("brand: " + brand + "\n")
+    print("product_name: " + product_name + "\n")
+    print("shipping: " + shipping + "\n")
+
+    
+    f.write(brand + ", " + product_name.replace(",", "|") + ", " + shipping + "\n")
+
+f.close()  
+
