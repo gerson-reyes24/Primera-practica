@@ -1,0 +1,880 @@
+PS C:\WINDOWS\system32> ipconfig /displaydns
+
+Configuración IP de Windows
+
+    gnu.mirror.constant.com
+    ----------------------------------------
+    Nombre de registro  . : gnu.mirror.constant.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1421
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2001:19f0:1595:1403::1096
+
+
+    gnu.mirror.constant.com
+    ----------------------------------------
+    Nombre de registro  . : gnu.mirror.constant.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1421
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 108.61.5.83
+
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 34
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8002::154
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 34
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8003::154
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 34
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8000::154
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 34
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8001::154
+
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1324
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1324
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1324
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1324
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    example.org
+    ----------------------------------------
+    Nombre de registro  . : example.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 64353
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 93.184.216.34
+
+
+    www.fwhibbit.es
+    ----------------------------------------
+    Nombre de registro  . : www.fwhibbit.es
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1254
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2001:8d8:100f:f000::2f9
+
+
+    www.fwhibbit.es
+    ----------------------------------------
+    Nombre de registro  . : www.fwhibbit.es
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1254
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 217.160.0.240
+
+
+    i.ibb.co
+    ----------------------------------------
+    Nombre de registro  . : i.ibb.co
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2225
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.194.8.196
+
+
+    Nombre de registro  . : i.ibb.co
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2225
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.194.8.205
+
+
+    Nombre de registro  . : i.ibb.co
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2225
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.96.140.18
+
+
+    Nombre de registro  . : i.ibb.co
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2225
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.96.140.18
+
+
+    Nombre de registro  . : i.ibb.co
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2225
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.194.8.196
+
+
+    adictec.com
+    ----------------------------------------
+    Nombre de registro  . : adictec.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 13865
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.246.112.39
+
+
+    teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : teams.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 21
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : teams.office.com
+
+
+    Nombre de registro  . : teams.office.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 21
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : teams-office-com.s-0005.s-msedge.net
+
+
+    Nombre de registro  . : teams-office-com.s-0005.s-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 21
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : s-0005.dc-msedge.net
+
+
+    Nombre de registro  . : s-0005.dc-msedge.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 21
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2620:1ec:43::132
+
+
+    fwhibbit.es
+    ----------------------------------------
+    Nombre de registro  . : fwhibbit.es
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1251
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2001:8d8:100f:f000::2f9
+
+
+    fwhibbit.es
+    ----------------------------------------
+    Nombre de registro  . : fwhibbit.es
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1251
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 217.160.0.240
+
+
+    www.pythonparatodo.com
+    ----------------------------------------
+    Nombre de registro  . : www.pythonparatodo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 67105
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : pythonparatodo.com
+
+
+    Nombre de registro  . : pythonparatodo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 67105
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 91.142.218.252
+
+
+    www.sublimetext.com
+    ----------------------------------------
+    Nombre de registro  . : www.sublimetext.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1040
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : sublimetext.com
+
+
+    Nombre de registro  . : sublimetext.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1040
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 45.55.41.223
+
+
+    www.elviajedelargos.com
+    ----------------------------------------
+    Nombre de registro  . : www.elviajedelargos.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 119
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : koshverde.github.io
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 28
+    Período de vida . . . : 119
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8002::153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 28
+    Período de vida . . . : 119
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8003::153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 28
+    Período de vida . . . : 119
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8001::153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 28
+    Período de vida . . . : 119
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8000::153
+
+
+    www.elviajedelargos.com
+    ----------------------------------------
+    Nombre de registro  . : www.elviajedelargos.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 120
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : koshverde.github.io
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 120
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 120
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 120
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 120
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.153
+
+
+    ipv4only.arpa
+    ----------------------------------------
+    Nombre de registro  . : ipv4only.arpa
+    Tipo de registro  . . : 1
+    Período de vida . . . : 61189
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 192.0.0.171
+
+
+    Nombre de registro  . : ipv4only.arpa
+    Tipo de registro  . . : 1
+    Período de vida . . . : 61189
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 192.0.0.170
+
+
+    login.microsoftonline.com
+    ----------------------------------------
+    Nombre de registro  . : login.microsoftonline.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 28
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : ak.privatelink.msidentity.com
+
+
+    Nombre de registro  . : ak.privatelink.msidentity.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 28
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : www.tm.ak.prd.aadg.trafficmanager.net
+
+
+    Nombre de registro  . : www.tm.ak.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.155.1
+
+
+    Nombre de registro  . : www.tm.ak.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.155.16
+
+
+    Nombre de registro  . : www.tm.ak.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.155.3
+
+
+    Nombre de registro  . : www.tm.ak.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.155.2
+
+
+    Nombre de registro  . : www.tm.ak.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.155.132
+
+
+    Nombre de registro  . : www.tm.ak.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.155.66
+
+
+    Nombre de registro  . : www.tm.ak.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 20.190.155.131
+
+
+    Nombre de registro  . : www.tm.ak.prd.aadg.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 40.126.27.128
+
+
+    www.ftp-sites.org
+    ----------------------------------------
+    Nombre de registro  . : www.ftp-sites.org
+    Tipo de registro  . . : 5
+    Período de vida . . . : 9897
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : ftp-sites.org
+
+
+    Nombre de registro  . : ftp-sites.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 9897
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 204.44.192.11
+
+
+    browser.sentry-cdn.com
+    ----------------------------------------
+    Nombre de registro  . : browser.sentry-cdn.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 45166
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a04:4e42:400::729
+
+
+    Nombre de registro  . : browser.sentry-cdn.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 45166
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a04:4e42::729
+
+
+    Nombre de registro  . : browser.sentry-cdn.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 45166
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a04:4e42:200::729
+
+
+    Nombre de registro  . : browser.sentry-cdn.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 45166
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a04:4e42:600::729
+
+
+    nmap.org
+    ----------------------------------------
+    Nombre de registro  . : nmap.org
+    Tipo de registro  . . : 28
+    Período de vida . . . : 913
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2600:3c01:e000:3e6::6d4e:7061
+
+
+    nmap.org
+    ----------------------------------------
+    Nombre de registro  . : nmap.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 913
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 45.33.49.119
+
+
+    a.nel.cloudflare.com
+    ----------------------------------------
+    Nombre de registro  . : a.nel.cloudflare.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 44954
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2600:1901:0:47fc::
+
+
+    a.nel.cloudflare.com
+    ----------------------------------------
+    Nombre de registro  . : a.nel.cloudflare.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 57772
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 35.190.80.1
+
+
+    www.linuxparty.es
+    ----------------------------------------
+    Nombre de registro  . : www.linuxparty.es
+    Tipo de registro  . . : 5
+    Período de vida . . . : 80001
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : linuxparty.es
+
+
+    Nombre de registro  . : linuxparty.es
+    Tipo de registro  . . : 1
+    Período de vida . . . : 80001
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 82.194.72.144
+
+
+    stats.wp.com
+    ----------------------------------------
+    Nombre de registro  . : stats.wp.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1905
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 192.0.76.3
+
+
+    adsco.re
+    ----------------------------------------
+    Nombre de registro  . : adsco.re
+    Tipo de registro  . . : 1
+    Período de vida . . . : 45157
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.252.214.5
+
+
+    safwjxsqvm.com
+    ----------------------------------------
+    Nombre de registro  . : safwjxsqvm.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 53759
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.21.13.14
+
+
+    Nombre de registro  . : safwjxsqvm.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 53759
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.21.13.15
+
+
+    koshverde.github.io
+    ----------------------------------------
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 28
+    Período de vida . . . : 119
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8002::153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 28
+    Período de vida . . . : 119
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8003::153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 28
+    Período de vida . . . : 119
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8000::153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 28
+    Período de vida . . . : 119
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8001::153
+
+
+    koshverde.github.io
+    ----------------------------------------
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 119
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 119
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 119
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.153
+
+
+    Nombre de registro  . : koshverde.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 119
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.153
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1043
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8002::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1043
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8001::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1043
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8000::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1043
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8003::154
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1575
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1575
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1575
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1575
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    mirrors.ibiblio.org
+    ----------------------------------------
+    Nombre de registro  . : mirrors.ibiblio.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 84249
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 152.19.134.44
+
+
+    pixel.wp.com
+    ----------------------------------------
+    Nombre de registro  . : pixel.wp.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 568
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 192.0.76.3
+
+
+    qastack.mx
+    ----------------------------------------
+    Nombre de registro  . : qastack.mx
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54375
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 116.203.77.254
+
+
+    match.adsrvr.org
+    ----------------------------------------
+    Nombre de registro  . : match.adsrvr.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 411
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 3.33.220.150
+
+
+    Nombre de registro  . : match.adsrvr.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 411
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.223.40.198
+
+
+    Nombre de registro  . : match.adsrvr.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 411
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 35.71.131.137
+
+
+    Nombre de registro  . : match.adsrvr.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 411
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 15.197.193.217
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 443
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 443
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 443
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 443
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.154
+
+
+    hb-api.omnitagjs.com
+    ----------------------------------------
+    Nombre de registro  . : hb-api.omnitagjs.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 38858
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : hb-api-usa02.omnitagjs.com
+
+
+    Nombre de registro  . : hb-api-usa02.omnitagjs.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 38858
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 195.244.31.11
+
+
+    Nombre de registro  . : hb-api-usa02.omnitagjs.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 38858
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 195.244.31.10
+
+
+    visitor.omnitagjs.com
+    ----------------------------------------
+    Nombre de registro  . : visitor.omnitagjs.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 31811
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : visitor-usa02.omnitagjs.com
+
+
+    Nombre de registro  . : visitor-usa02.omnitagjs.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31811
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 195.244.31.10
+
+
+    Nombre de registro  . : visitor-usa02.omnitagjs.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31811
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 195.244.31.11
