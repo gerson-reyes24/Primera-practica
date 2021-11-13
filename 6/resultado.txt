@@ -1,0 +1,9 @@
+hostname: unknown option -- I
+Try 'hostname --help' for more information.
+hostname :
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    14  100    14    0     0     56      0 --:--:-- --:--:-- --:--:--    56
+ip privada:  187.192.29.178
+
+
